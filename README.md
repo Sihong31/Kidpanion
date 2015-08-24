@@ -3,8 +3,14 @@ An app to make the lives of parents with young children easier. Find changing st
 
 #Technologies Used
 Javascript, jQuery, Handlebars
+
+
 Ruby on Rails
+
+
 Google Maps APIs, Yelp API
+
+
 Material Design Lite
 
 # kid-friendly
